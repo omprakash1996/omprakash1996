@@ -1,4 +1,4 @@
-# Hi there, I'm Omprakash Behera - Aspiring Full Stack Developer !!! 👋
+# Hi there, I'm Omprakash Behera - Aspiring MERN Stack Developer !!! 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omprakash-behera)
 
